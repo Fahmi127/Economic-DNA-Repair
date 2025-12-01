@@ -1,4 +1,4 @@
-# **“Economic DNA Repair: Designing Self-Correcting Smart Contracts”**
+# **Economic DNA Repair: Designing Self-Correcting Smart Contracts**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Economic%20DNA%20Repair-blueviolet?style=for-the-badge">
